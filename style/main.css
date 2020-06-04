@@ -1,0 +1,63 @@
+body {
+    background-color: whitesmoke;
+}
+
+#page-home .content {
+    background-color: #4744DB;
+    height: 10vh;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+
+h1 {
+    margin-top: -70px;
+    display: flex;
+    justify-content: center;
+}
+
+#image1 {
+    position: relative;
+    left: 700px;
+
+}
+
+#image2 {
+    position: relative;
+    top: -100px;
+    left: 1080px;
+}
+
+
+#page-home main a img{
+    width: 125px;
+    border-radius: 150px;
+    display: inline-flex;
+    
+}
+
+
+#botao1 {
+    position: relative;
+    top: -100px;
+    left: 420px;
+}
+
+#botao2 {
+    position: relative;
+    top: -100px;
+    left: 725px;
+}
+
+#botao3 {
+    position: relative;
+    top: -100px;
+    left: 1025px;
+}
+
+
+#image img {
+    border-radius: 50px;
+    display: inline-flex;
+    margin-left: 80px;
+
+}
