@@ -5,14 +5,14 @@ Clique na imagem para abrir exercícios para o membro especificado.
 
 ## Aprendizado
 
-Trabalhar com HTML ✅
-Trabalhar com CSS ✅
-Integrar Javascript ao HTML ✅
+Trabalhar com HTML ✅<br>
+Trabalhar com CSS ✅<br>
+Integrar Javascript ao HTML ✅<br>
 
 ### Aprendizados pendentes
-Eliminar bug de multiplas imagens ao clicar.
-Acrescentar hover no botão dos exercicíos.
-Incluir nome do exercício para cada imagem.
+Eliminar bug de multiplas imagens ao clicar.<br>
+Acrescentar hover no botão dos exercicíos.<br>
+Incluir nome do exercício para cada imagem.<br>
 Inserir um texto na página inicial.
 
 <a href="https://hoyci.github.io/Estudos-sobre-NLW/">Clique aqui para ver o projeto</a>
