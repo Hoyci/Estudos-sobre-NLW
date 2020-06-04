@@ -13,7 +13,7 @@ Integrar Javascript ao HTML ✅<br>
 Eliminar bug de multiplas imagens ao clicar. ❌<br>
 Acrescentar hover no botão dos exercicíos. ❌<br>
 Incluir nome do exercício para cada imagem. ❌<br>
-Inserir um texto na página inicial.
+Inserir um texto na página inicial. ❌
 
 <a href="https://hoyci.github.io/Estudos-sobre-NLW/">Clique aqui para ver o projeto</a>
 
